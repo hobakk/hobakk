@@ -14,9 +14,8 @@
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=black">
         <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=black">
         <img src="https://img.shields.io/badge/StyledComponents-DB7093?style=for-the-badge&logo=StyledComponents&logoColor=black">
-        </br>
-    </div></br>
-
-
-![hobakk github stats](https://github-readme-stats.vercel.app/api?username=hobakk&show_icons=true)[![hobakk's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hobakk&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/hobakk)
+    </div>
+    <img src="https://github-readme-stats.vercel.app/api?username=hobakk&show_icons=true" alt="hobakk github stats" width="400" height="300">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hobakk&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact" width="305" height="300">
 </div>
+
