@@ -19,7 +19,7 @@
         <img width=400 height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=hobakk&show_icons=true&theme=radical" />
     </a>
     <a href="https://github.com/anuraghazra/convoychat">
-        <img width=325 height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hobakk&show_icons=true&theme=radical&layout=compact&langs_count=8&card_width=320" />
+        <img width=280 height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hobakk&show_icons=true&theme=radical&layout=compact&langs_count=8&card_width=320" />
 </a>
 </div>
 
