@@ -14,6 +14,11 @@
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
         <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white">
         <img src="https://img.shields.io/badge/StyledComponents-DB7093?style=for-the-badge&logo=StyledComponents&logoColor=white">
+    </br>
+        <img src="https://img.shields.io/badge/amazon ec2-FF9900.svg?style=for-the-badge&logo=amazonec2&logoColor=white">
+        <img src="https://img.shields.io/badge/github actions-2088FF.svg?style=for-the-badge&logo=githubactions&logoColor=white">
+        <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
+        <img src="https://img.shields.io/badge/nginx-009639.svg?style=for-the-badge&logo=nginx&logoColor=white">      
     </div><br/>
     <a href="https://github.com/anuraghazra/github-readme-stats">
         <img width=400 height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=hobakk&show_icons=true&theme=radical" />
