@@ -15,12 +15,12 @@
         <img src="https://img.shields.io/badge/github actions-2088FF.svg?style=for-the-badge&logo=githubactions&logoColor=white">
         <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
         <img src="https://img.shields.io/badge/nginx-009639.svg?style=for-the-badge&logo=nginx&logoColor=white">      
-    </div><br/>
+    </div>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img width=350 height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=hobakk&show_icons=true&theme=radical" />
+        <img width=300 height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=hobakk&show_icons=true&theme=radical" />
     </a>
     <a href="https://github.com/anuraghazra/convoychat">
-        <img width=245 height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hobakk&show_icons=true&theme=radical&layout=compact&langs_count=8&card_width=320" />
+        <img width=210 height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hobakk&show_icons=true&theme=radical&layout=compact&langs_count=8&card_width=320" />
 </a>
 </div>
 
