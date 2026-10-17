@@ -1,11 +1,3 @@
-<div align="center">
-
-# 김민재 · Terbo
-
-**DevOps Engineer** — 서버 4대, 컨테이너 105개, 제조 현장 92개의 인프라를 혼자 설계하고 운영합니다.
-
-</div>
-
 ## 지향하는 개발자
 
 - 시키기 전에 먼저 제안하고, 결정은 측정한 뒤에 합니다.
@@ -16,7 +8,7 @@
 
 | 프로젝트 | 설명 |
 |---|---|
-| [**ansible**](https://github.com/hobakk/ansible) | 서버 2대의 초기 설정(계정·SSH 보안·Docker·방화벽·감사 로그)을 코드로 정의한 Ansible 프로젝트. 재실행 시 `changed=0`, `ansible-lint` production 프로필 통과, Molecule 자동 테스트 |
+| [**ansible**](https://github.com/hobakk/ansible) | 서버 초기 설정(SSH 보안·Docker·방화벽·감사 로그)을 코드로 정의. 재실행 `changed=0`, ansible-lint production 통과 |
 
 ## Tech Stack
 
@@ -76,8 +68,6 @@
   <img alt="styled-components" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white">
 </div>
 </details>
-
-## GitHub Stats
 
 <div align="center">
   <a href="https://github.com/hobakk">
